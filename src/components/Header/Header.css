@@ -1,0 +1,26 @@
+.navbar {
+    padding: 30px;
+    background-color: rebeccapurple;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.navbar a:first-child {
+    padding-left: 0px;
+}
+
+.sign-out-btn {
+    padding: 4px;
+    margin-left: 20px;
+}
+
+.user-name {
+    color: white;
+    padding-left: 30px;
+    font-size: 20px;
+}
